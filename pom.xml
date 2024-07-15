@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>InventoryManager-1</artifactId>
+	<artifactId>EmployeeManager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>InventoryManager-1</name>
-	<description>InventoryManagementSystem</description>
+	<name>EmployeeManager</name>
+	<description>EmployeeManagementSystem</description>
 	<url />
 	<licenses>
 		<license />
